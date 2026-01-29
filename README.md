@@ -1,16 +1,18 @@
-## Hi there 👋
+# Project Website
 
-<!--
-**Hi-Drum/Hi-Drum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Commands
+jekyll serve --trace
 
-Here are some ideas to get you started:
+# Creative Theme for Jekyll
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+
+Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
+The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+
+See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+
+## To use the Creative Theme template in your project
+
+- Start by adding your info in `_config.yml`
+- In `_layouts/front.html` reorder or remove section as you prefer.
